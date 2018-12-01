@@ -1,0 +1,2 @@
+# guazi_offline_log_analysis
+日志机构化存储hive
